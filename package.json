@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "myfs": "^1.0.22",
+    "terser": "^5.23.0"
+  },
+  "name": "arrayutils",
+  "description": "a couple common array utils",
+  "version": "1.0.0",
+  "main": "char codes - regroup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
